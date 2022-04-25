@@ -67,7 +67,7 @@ export default {
         },
         {
           index: "/index/Bignum",
-          i: "el-icon-folder-checked",
+          i: "el-icon-refresh",
           text: "大数转换",
         },
 
